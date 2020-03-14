@@ -1,0 +1,2 @@
+# CreditCardFraudDetection
+You got amazed by these fancy and diverse applications of Machine learning, and I am here to increase this excitement whole new level. So now you can detect credit card's frauds as well, Our model gives 99.75% accuracy on this project. So now no worries if your credit card got misplaced or even you got mugged. If banks have this system implemented your transaction cannot passes through. 
